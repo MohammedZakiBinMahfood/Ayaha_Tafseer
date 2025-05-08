@@ -4,13 +4,30 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+📖 Ayaha Reason
 
-A few resources to get you started if this is your first Flutter project:
+Ayaha Reason هو تطبيق يعرض آيات القرآن الكريم والتفسير بشكل مبسط وسهل الوصول. يعتمد التطبيق على معمارية نظيفة (Clean Architecture) ويستخدم SQLite لحفظ الآيات المفضلة وAPI لجلب النصوص والتفسير من الإنترنت.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌟 الميزات الرئيسية
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+عرض نصوص الآيات مع أسماء السور وأرقام الآيات.
+
+الوصول إلى التفسير الكامل لكل آية.
+
+إمكانية الانتقال بين الآيات بسهولة.
+
+إضافة الآيات إلى قائمة المفضلة.
+
+واجهة مستخدم بسيطة وجذابة.
+
+🚀 البدء
+
+المتطلبات
+
+Flutter 3.27.0 أو أحدث
+
+Dart 3.7.0 أو أحدث
+
+Android Studio أو VS Code
+
+حساب GitHub (للنسخ والمزامنة)
