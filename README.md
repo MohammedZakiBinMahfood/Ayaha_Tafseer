@@ -6,28 +6,28 @@ A new Flutter project.
 
 📖 Ayaha Reason
 
-Ayaha Reason هو تطبيق يعرض آيات القرآن الكريم والتفسير بشكل مبسط وسهل الوصول. يعتمد التطبيق على معمارية نظيفة (Clean Architecture) ويستخدم SQLite لحفظ الآيات المفضلة وAPI لجلب النصوص والتفسير من الإنترنت.
+Ayaha Reason is a mobile application for viewing Quranic verses along with their interpretations. It is built using the Clean Architecture approach and leverages SQLite for managing favorite verses and an API for fetching Quranic text and interpretations.
 
-🌟 الميزات الرئيسية
+🌟 Key Features
 
-عرض نصوص الآيات مع أسماء السور وأرقام الآيات.
+Display Quranic verses with surah names and verse numbers.
 
-الوصول إلى التفسير الكامل لكل آية.
+Access complete tafseer (interpretation) for each verse.
 
-إمكانية الانتقال بين الآيات بسهولة.
+Easily navigate between verses.
 
-إضافة الآيات إلى قائمة المفضلة.
+Add verses to a favorites list.
 
-واجهة مستخدم بسيطة وجذابة.
+Simple and intuitive user interface.
 
-🚀 البدء
+🚀 Getting Started
 
-المتطلبات
+Prerequisites
 
-Flutter 3.27.0 أو أحدث
+Flutter 3.27.0 or later
 
-Dart 3.7.0 أو أحدث
+Dart 3.7.0 or later
 
-Android Studio أو VS Code
+Android Studio or VS Code
 
-حساب GitHub (للنسخ والمزامنة)
+GitHub account (for cloning and syncing)
