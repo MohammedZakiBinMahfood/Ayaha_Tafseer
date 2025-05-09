@@ -4,13 +4,30 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+📖 Ayaha Reason
 
-A few resources to get you started if this is your first Flutter project:
+Ayaha Reason is a mobile application for viewing Quranic verses along with their interpretations. It is built using the Clean Architecture approach and leverages SQLite for managing favorite verses and an API for fetching Quranic text and interpretations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌟 Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Display Quranic verses with surah names and verse numbers.
+
+Access complete tafseer (interpretation) for each verse.
+
+Easily navigate between verses.
+
+Add verses to a favorites list.
+
+Simple and intuitive user interface.
+
+🚀 Getting Started
+
+Prerequisites
+
+Flutter 3.27.0 or later
+
+Dart 3.7.0 or later
+
+Android Studio or VS Code
+
+GitHub account (for cloning and syncing)
