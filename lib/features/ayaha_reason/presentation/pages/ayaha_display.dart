@@ -155,7 +155,7 @@ class _DisplayAyahaState extends State<DisplayAyaha> {
     currentAyahNumber = widget.ayahNumber;
 
     if (currentSuraIndex == 0 || currentAyahNumber == 0) {
-      _getRandomAyah(); // جلب آية عشوائية عند الضرورة
+      _getRandomAyah(); // جلب آية عشوائية عند استدعاء الفانكشن
     }
   }
 
@@ -270,7 +270,7 @@ class _DisplayAyahaState extends State<DisplayAyaha> {
                                 (context) => TafseerScreen(
                                   suraIndex: ayaha.suraIndex,
                                   ayahNumber: ayaha.ayahNumber,
-                                  tafseerId: 1, // أو أي معرف تفسير تريده
+                                  tafseerId: 1,
                                 ),
                           ),
                         );
