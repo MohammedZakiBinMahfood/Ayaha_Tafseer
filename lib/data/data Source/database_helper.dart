@@ -45,7 +45,6 @@ class DatabaseHelper {
     return maps.map((map) => FavoriteModel.fromJson(map)).toList();
   }
 
-  /// حذف آية من المفضلة
   static Future<void> deleteFavorite(int id) async {
     final db = await getDatabase();
     await db.delete('favorites', where: 'id = ?', whereArgs: [id]);

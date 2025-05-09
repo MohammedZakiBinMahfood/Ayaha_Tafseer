@@ -1,5 +1,5 @@
 import 'package:ayaha_reason/data/models/favorites_model.dart';
-import 'package:ayaha_reason/data/services/database_helper.dart';
+import 'package:ayaha_reason/data/data%20Source/database_helper.dart';
 
 class FavoriteService {
   static Future<void> addToFavorites(FavoriteModel model) async {
